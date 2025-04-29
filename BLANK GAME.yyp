@@ -49,6 +49,7 @@
     {"id":{"name":"obj_mother","path":"objects/obj_mother/obj_mother.yy",},},
     {"id":{"name":"obj_testMC","path":"objects/obj_testMC/obj_testMC.yy",},},
     {"id":{"name":"obj_testNPC","path":"objects/obj_testNPC/obj_testNPC.yy",},},
+    {"id":{"name":"counselor_office","path":"rooms/counselor_office/counselor_office.yy",},},
     {"id":{"name":"house_cutscene1","path":"rooms/house_cutscene1/house_cutscene1.yy",},},
     {"id":{"name":"house","path":"rooms/house/house.yy",},},
     {"id":{"name":"school_cutscene1","path":"rooms/school_cutscene1/school_cutscene1.yy",},},
@@ -75,8 +76,9 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"house_cutscene1","path":"rooms/house_cutscene1/house_cutscene1.yy",},},
     {"roomId":{"name":"school","path":"rooms/school/school.yy",},},
-    {"roomId":{"name":"house","path":"rooms/house/house.yy",},},
     {"roomId":{"name":"school_cutscene1","path":"rooms/school_cutscene1/school_cutscene1.yy",},},
+    {"roomId":{"name":"counselor_office","path":"rooms/counselor_office/counselor_office.yy",},},
+    {"roomId":{"name":"house","path":"rooms/house/house.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
