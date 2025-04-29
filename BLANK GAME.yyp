@@ -45,10 +45,9 @@
   "resources":[
     {"id":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},},
     {"id":{"name":"obj_cutscene_controller1","path":"objects/obj_cutscene_controller1/obj_cutscene_controller1.yy",},},
+    {"id":{"name":"obj_cutscene_controller2","path":"objects/obj_cutscene_controller2/obj_cutscene_controller2.yy",},},
     {"id":{"name":"obj_mc","path":"objects/obj_mc/obj_mc.yy",},},
-    {"id":{"name":"obj_mother","path":"objects/obj_mother/obj_mother.yy",},},
-    {"id":{"name":"obj_testMC","path":"objects/obj_testMC/obj_testMC.yy",},},
-    {"id":{"name":"obj_testNPC","path":"objects/obj_testNPC/obj_testNPC.yy",},},
+    {"id":{"name":"obj_npc","path":"objects/obj_npc/obj_npc.yy",},},
     {"id":{"name":"counselor_office","path":"rooms/counselor_office/counselor_office.yy",},},
     {"id":{"name":"house_cutscene1","path":"rooms/house_cutscene1/house_cutscene1.yy",},},
     {"id":{"name":"house","path":"rooms/house/house.yy",},},

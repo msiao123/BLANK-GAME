@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_testMC",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_cutscene_controller2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_testMC",
+  "name":"obj_cutscene_controller2",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj_mc",
-    "path":"folders/Objects/obj_mc.yy",
+    "name":"obj_cutscene",
+    "path":"folders/Objects/obj_cutscene.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"spr_testMC",
-    "path":"sprites/spr_testMC/spr_testMC.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
