@@ -1,3 +1,4 @@
+// CREATE
 // --- Cutscene variables
 cutscene_step = 0;
 cutscene_timer = 0;

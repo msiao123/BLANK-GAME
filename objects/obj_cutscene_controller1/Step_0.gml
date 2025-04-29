@@ -1,3 +1,4 @@
+// STEP
 // --- Fade from black
 if (fade_alpha > 0) {
     fade_alpha -= 0.02;
@@ -116,7 +117,7 @@ switch (cutscene_step) {
         }
         else if (dialogue_stage == 0 && keyboard_check_pressed(vk_space) && typewriter_index >= string_length(current_dialogue)) {
             global.cutscene_active = false;
-            room_goto(room_house); // <--- your main gameplay room
+            room_goto(school_cutscene1); // <--- your main gameplay room
         }
         break;
 }

@@ -1,25 +1,25 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
+  "%Name":"tileset_furniture",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
-  "out_columns":28,
+  "name":"tileset_furniture",
+  "out_columns":61,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"tileset_display",
-    "path":"folders/Tile Sets/tileset_display.yy",
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_tileset1",
-    "path":"sprites/spr_tileset1/spr_tileset1.yy",
+    "name":"spr_furniture",
+    "path":"sprites/spr_furniture/spr_furniture.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":792,
+  "tile_count":3762,
 }
